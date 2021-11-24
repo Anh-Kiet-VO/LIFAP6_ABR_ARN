@@ -40,7 +40,8 @@ PLACEZ-VOUS A LA RACINE DU PROJET DEPUIS UN TERMINAL DE COMMANDE LINUX, PUIS :
 ```
 - POUR COMPILER : Exécutez la commande make.
 
-- POUR EXECUTER : Exécutez la commande make runmain (ou son équivalent bin/main) ou make runperf (ou son équivalent bin/mainPerformance), selon le programme que vous voulez exécuter.
+- POUR EXECUTER : Exécutez la commande make runmain (ou son équivalent bin/main)
+ou make runperf (ou son équivalent bin/mainPerformance)
 
 - POUR NETTOYER : Pour vider le dossier obj, exécutez la commande make clean.
 ```
