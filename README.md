@@ -11,17 +11,17 @@ VO Anh-Kiet p1907921
 
 ORGANISATION DES FICHIERS/REPERTOIRES :
 
-    - bin : contient les fichiers exécutables compilés ;
+    - bin : contient les fichiers exécutables compilés
 
-    - obj : contient les compilations intermédiaires (fichiers objets .o) ;
+    - obj : contient les compilations intermédiaires (fichiers objets .o)
 
     - data : les graphes des performances
 
-    - src : contient les fichiers sources .cpp et les fichiers headers .h ;
+    - src : contient les fichiers sources .cpp et les fichiers headers .h
 
-    - Performance : contient, après exécution de bin/mainPerformance, les résultats des tests de performance de l'ABR et de l'ARN ;
+    - Performance : contient, après exécution de bin/mainPerformance, les résultats des tests de performance de l'ABR et de l'ARN
 
-    - Makefile : permet de compiler et nettoyer ;
+    - Makefile : permet de compiler et nettoyer
 
     - README : ce readme.
     
