@@ -1,0 +1,22 @@
+# Compiled Object files
+obj/*.o
+
+# Executables
+bin/main
+bin/main.exe
+bin/mainPerformance
+
+# Visual Studio Code files
+.vscode/*
+
+# Visual Studio files
+.vs/*
+Visual_Studio/*
+
+# Documentation files
+doc/html/*
+
+*.ini
+
+# Performance
+*.txt
